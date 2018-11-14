@@ -1,0 +1,164 @@
+#navBar{
+  
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+
+       h5{
+       	font-size: 15px;
+       	font-family: "Montserrat", Helvetica, Arial, sans-serif;
+       	font-weight: bold;
+        color:rgb(33, 33, 33);
+       }
+       p{
+       	margin-top: -5px;
+       }
+
+ }
+
+#navBottom{
+	background-image: url(../image/background-03-1920x447.jpg);
+	background-size: cover;
+	height: 254px;
+    .row{
+    	text-align: center;
+    	padding-left: 450px;
+
+
+    	h2{
+    		padding-top: 60px;
+    		font-size: 85px;
+    		color:white;
+    		font-weight: bold;
+    	}
+    	a{
+    		color:white;
+    		padding-left: 94px;
+
+    	}
+    	p{
+    		color: white;
+
+    	}
+    }
+
+  }
+
+#john{
+	height: 900px;
+
+
+
+	 .button{
+            margin-top: 45px;
+            padding-top: 11px; 
+   	   	    text-align: center;
+   	   	    background-color: rgb(105, 171, 56);
+   	   	    color: white;
+   	   	    width: 340px;
+   	   	    height: 53px;
+   	   	    border-radius: 5px;
+                
+             .buttonInside{
+             padding-top: 3px; 
+   	   	     font-weight: bold;
+   	   	     font-size: 20px;
+   	   	    }
+
+   	   	 }
+   	   	 .yuxari{
+             padding-left: 90px;
+
+           }
+         .asagi{
+         	padding-left: 70px;
+         } 
+         a{
+         	color: rgb(95, 95, 95);
+         } 
+
+      .yuxariYazi{
+      color:rgb(67, 67, 69);
+      font-family:  Helvetica, Arial, sans-serif;
+      font-size: 45px;
+      font-weight: bold;
+ 	 }
+
+     h4{
+     	color: rgb(119, 97, 97);
+     	padding-top: 30px;
+     	font-family: "Crimson Text", "Times New Roman", Times, serif;
+
+      }
+     .yanXett{
+     	margin-top: 20px;
+     	margin-left: 15px;
+     	height: 2px;
+ 		width:  100%;
+ 		background-color: rgb(102, 191, 95);
+     }
+     .asagiYazi{
+     	font-size: 24px;
+        font-style: italic !important;
+        font-weight: bold;
+        color:rgb(67, 67, 69);
+     }
+     .button{
+          margin-top: 45px;
+          padding-top: 11px; 
+   	      text-align: center;
+   	      background-color: rgb(0, 198, 66);
+   	      color: white;
+   	      width: 250px;
+   	      height: 53px;
+   	      border-radius: 5px;
+   	      font-weight: bold;
+   	      font-size: 20px;
+       }
+
+     #certificate{
+
+     	width: 824px;
+
+     }
+     .sert{
+     	
+     	text-align: center;
+      transition: all .4s ease;
+     	&:hover{
+        transform:scale(1.1);
+     		box-shadow: 0px 0px 1px 1px lighten(lightgrey,65%);
+     		
+     	}
+     }
+     
+
+
+  }   	   	 
+
+#bestseller{
+
+
+
+	.col-4{
+		padding-bottom: 100px;
+		p{
+			color:rgb(0, 198, 66);
+			margin-bottom: -7px;
+			font-weight: bold;
+		}
+		h4{
+			font-weight: bold;
+            color:rgb(140, 88, 88);
+		}
+	}
+	.col-8{
+		h6{
+		  color:rgb(140, 88, 88);	
+		  font-family:"Crimson Text", "Times New Roman", Times, serif;
+
+		}
+
+	}
+
+}

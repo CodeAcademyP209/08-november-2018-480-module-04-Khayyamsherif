@@ -1,0 +1,75 @@
+#navBar{
+  
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+
+       h5{
+       	font-size: 15px;
+       	font-family: "Montserrat", Helvetica, Arial, sans-serif;
+       	font-weight: bold;
+        color:rgb(33, 33, 33);
+       }
+       p{
+       	margin-top: -5px;
+       }
+
+ }
+
+ #navBottom{
+	background-image: url(../image/background-03-1920x447.jpg);
+	background-size: cover;
+	height: 254px;
+    .row{
+    	text-align: center;
+    	padding-left: 450px;
+
+
+    	h2{
+    		padding-top: 60px;
+    		font-size: 85px;
+    		color:white;
+    		font-weight: bold;
+    	}
+    	a{
+    		color:white;
+    		padding-left: 94px;
+
+    	}
+    	p{
+    		color: white;
+
+    	}
+    }
+
+  }
+
+#cards{
+  .col-8
+  {
+  	a{
+     background-color: rgb(15, 188, 87);
+     border: 1px;
+     margin-bottom: 10px;
+     &:hover{
+     	background-color: rgb(6, 170, 36);
+     }
+  	}
+  	h4{
+  		font-family:"Montserrat", Helvetica, Arial, sans-serif;
+  		color: #434345;
+  		font-weight: bold;
+  		font-size: 22px;
+  		transition:all 0.4s ease;
+  		&:hover{
+  			color: rgb(84, 130, 229);
+  			cursor: pointer;
+  		}
+
+  	}
+  	p{
+  		color:rgb(106, 186, 183);
+  	}
+  }
+
+}

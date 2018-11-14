@@ -1,0 +1,60 @@
+#navBar {
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+#navBar h5 {
+  font-size: 15px;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: #212121;
+}
+#navBar p {
+  margin-top: -5px;
+}
+
+#navBottom {
+  background-image: url(../image/background-03-1920x447.jpg);
+  background-size: cover;
+  height: 254px;
+}
+#navBottom .row {
+  text-align: center;
+  padding-left: 450px;
+}
+#navBottom .row h2 {
+  padding-top: 60px;
+  font-size: 85px;
+  color: white;
+  font-weight: bold;
+}
+#navBottom .row a {
+  color: white;
+  padding-left: 94px;
+}
+#navBottom .row p {
+  color: white;
+}
+
+#cards .col-8 a {
+  background-color: #0fbc57;
+  border: 1px;
+  margin-bottom: 10px;
+}
+#cards .col-8 a:hover {
+  background-color: #06aa24;
+}
+#cards .col-8 h4 {
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  color: #434345;
+  font-weight: bold;
+  font-size: 22px;
+  transition: all 0.4s ease;
+}
+#cards .col-8 h4:hover {
+  color: #5482e5;
+  cursor: pointer;
+}
+#cards .col-8 p {
+  color: #6abab7;
+}

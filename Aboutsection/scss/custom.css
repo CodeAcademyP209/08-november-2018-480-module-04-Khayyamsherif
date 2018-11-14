@@ -1,0 +1,129 @@
+#navBar {
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+#navBar h5 {
+  font-size: 15px;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: #212121;
+}
+#navBar p {
+  margin-top: -5px;
+}
+
+#navBottom {
+  background-image: url(../image/background-03-1920x447.jpg);
+  background-size: cover;
+  height: 254px;
+}
+#navBottom .row {
+  text-align: center;
+  padding-left: 450px;
+}
+#navBottom .row h2 {
+  padding-top: 60px;
+  font-size: 85px;
+  color: white;
+  font-weight: bold;
+}
+#navBottom .row a {
+  color: white;
+  padding-left: 94px;
+}
+#navBottom .row p {
+  color: white;
+}
+
+#john {
+  height: 900px;
+}
+#john .button {
+  margin-top: 45px;
+  padding-top: 11px;
+  text-align: center;
+  background-color: #69ab38;
+  color: white;
+  width: 340px;
+  height: 53px;
+  border-radius: 5px;
+}
+#john .button .buttonInside {
+  padding-top: 3px;
+  font-weight: bold;
+  font-size: 20px;
+}
+#john .yuxari {
+  padding-left: 90px;
+}
+#john .asagi {
+  padding-left: 70px;
+}
+#john a {
+  color: #5f5f5f;
+}
+#john .yuxariYazi {
+  color: #434345;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+}
+#john h4 {
+  color: #776161;
+  padding-top: 30px;
+  font-family: "Crimson Text", "Times New Roman", Times, serif;
+}
+#john .yanXett {
+  margin-top: 20px;
+  margin-left: 15px;
+  height: 2px;
+  width: 100%;
+  background-color: #66bf5f;
+}
+#john .asagiYazi {
+  font-size: 24px;
+  font-style: italic !important;
+  font-weight: bold;
+  color: #434345;
+}
+#john .button {
+  margin-top: 45px;
+  padding-top: 11px;
+  text-align: center;
+  background-color: #00c642;
+  color: white;
+  width: 250px;
+  height: 53px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+#john #certificate {
+  width: 824px;
+}
+#john .sert {
+  text-align: center;
+  transition: all .4s ease;
+}
+#john .sert:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 1px 1px white;
+}
+
+#bestseller .col-4 {
+  padding-bottom: 100px;
+}
+#bestseller .col-4 p {
+  color: #00c642;
+  margin-bottom: -7px;
+  font-weight: bold;
+}
+#bestseller .col-4 h4 {
+  font-weight: bold;
+  color: #8c5858;
+}
+#bestseller .col-8 h6 {
+  color: #8c5858;
+  font-family: "Crimson Text", "Times New Roman", Times, serif;
+}

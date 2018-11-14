@@ -1,0 +1,199 @@
+#mainSection {
+  background-image: url(../image/main-bg.jpg);
+  background-size: cover;
+  height: 630px;
+  padding-top: 15px;
+}
+#mainSection .container-fluid .row img {
+  width: 250px;
+}
+#mainSection .container-fluid .col-12 {
+  color: white;
+  margin-top: 88px;
+}
+#mainSection .container-fluid .col-12 p {
+  font-style: italic;
+}
+#mainSection .container-fluid .col-12 a {
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+}
+#mainSection .container-fluid .col-12 h1 {
+  font-size: 90px;
+  font-weight: bold;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+#mainSection .container-fluid .col-12 h2 {
+  font-style: italic;
+}
+#mainSection .container-fluid .col-12 .button {
+  margin-top: 45px;
+  padding-top: 11px;
+  text-align: center;
+  background-color: #c2ed04;
+  color: #191919;
+  width: 270px;
+  height: 53px;
+  border-radius: 5px;
+}
+#mainSection .container-fluid .col-12 .button .buttonInside {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#wellcome {
+  height: 548px;
+  text-align: center;
+}
+#wellcome #yuxariYazi {
+  padding-left: 230px;
+  padding-right: 230px;
+}
+#wellcome h1 {
+  color: #434345;
+}
+#wellcome .separater {
+  height: 2px;
+  width: 62px;
+  background-color: #66bf5f;
+}
+#wellcome .asagiYazi {
+  color: #776161;
+}
+#wellcome .row .col-2 {
+  padding-top: 20px;
+  height: 64px;
+  border-radius: 100%;
+  width: 20px;
+}
+#wellcome .row p {
+  color: #776161;
+}
+#wellcome .row ul {
+  color: #776161;
+}
+
+#about .yuxariYazi {
+  color: #434345;
+  padding-top: 100px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+}
+#about .separater {
+  height: 2px;
+  width: 62px;
+  background-color: #66bf5f;
+}
+#about h6 {
+  color: #776161;
+  padding-top: 50px;
+  font-family: "Crimson Text", "Times New Roman", Times, serif;
+}
+#about .yanXett {
+  margin-top: 20px;
+  margin-left: 15px;
+  height: 2px;
+  width: 100%;
+  background-color: #66bf5f;
+}
+#about .asagiYazi {
+  font-size: 24px;
+  font-style: italic !important;
+  font-weight: bold;
+  color: #434345;
+}
+#about .button {
+  margin-top: 45px;
+  padding-top: 11px;
+  text-align: center;
+  background-color: #00c642;
+  color: white;
+  width: 250px;
+  height: 53px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#testimonials {
+  padding-bottom: 100px;
+}
+#testimonials #yuxariYazi .separater {
+  height: 2px;
+  width: 62px;
+  background-color: #66bf5f;
+}
+#testimonials #description {
+  padding-top: 50px;
+  margin: 0 auto;
+  width: 1230px;
+  display: grid;
+  grid-template-columns: 360px 360px 360px;
+  grid-gap: 55px;
+}
+#testimonials #description .row .col-4 img {
+  border-radius: 50px;
+  margin-top: -44px;
+}
+#testimonials #description .row .col-2 {
+  font-size: 30px;
+  color: #00c642;
+}
+#testimonials #description .row .col-2 i {
+  padding-top: 30px;
+}
+#testimonials #description h6 {
+  color: #776161;
+  padding-top: 10px;
+  font-family: "Crimson Text", "Times New Roman", Times, serif;
+}
+#testimonials #description p {
+  font-family: "Crimson Text", "Times New Roman", Times, serif;
+  color: #00c642;
+}
+
+#phlisopy {
+  background-image: url(../image/background-02-1920x809.jpg);
+  background-size: cover;
+  height: 525px;
+  padding-left: 90px;
+}
+#phlisopy #left {
+  padding-top: 120px;
+}
+#phlisopy h3 {
+  color: white;
+  font-family: "Crimson Text", "Times New Roman", Times, serif;
+}
+#phlisopy h1 {
+  color: white;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 45px;
+}
+#phlisopy p {
+  height: 2px;
+  width: 62px;
+  background-color: white;
+}
+#phlisopy h6 {
+  padding-top: 20px;
+  font-family: "Crimson Text", "Times New Roman", Times, serif;
+  color: white;
+}
+#phlisopy .button {
+  margin-top: 45px;
+  padding-top: 11px;
+  text-align: center;
+  background-color: #ffed04;
+  color: #191919;
+  width: 470px;
+  height: 53px;
+  border-radius: 5px;
+}
+#phlisopy .button .buttonInside {
+  font-weight: bold;
+  font-size: 20px;
+}
